@@ -1,6 +1,6 @@
 ### Welcome to my page.
 
-![huggingIzzy](./images/izzy_hug.jpg)
+![huggingIzzy](./images/IMG_7574.heic)
 
 [Development Portfolio](https://vincenttoon.github.io/Toon-React-Portfolio/)
 
