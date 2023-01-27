@@ -1,6 +1,6 @@
 ### Welcome to my page.
 
-![Izzy Hug](./images/izzy_hug.jpg)
+#### Full Stack Developer graduated from Washington University's Engineering Bootcamp.
 
 [Development Portfolio](https://vincenttoon.github.io/Toon-React-Portfolio/)
 
