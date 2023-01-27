@@ -33,4 +33,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincenttoon&show_icons=true&theme=tokyonight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=yellow&right_color=blue)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
