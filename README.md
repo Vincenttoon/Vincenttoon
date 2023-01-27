@@ -1,4 +1,4 @@
-### Welcome to my page.
+### Welcome to my page. 
 
 #### Full Stack Developer graduated from Washington University's Engineering Bootcamp.
 
@@ -32,3 +32,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenttoon&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincenttoon&show_icons=true&theme=tokyonight)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=yellow&right_color=blue)
