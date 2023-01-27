@@ -10,4 +10,6 @@
 
 [Linked In Profile](https://www.linkedin.com/in/vincent-toon-4954b6162/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincenttoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincenttoon&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincenttoon&show_icons=true&theme=tokyonight)
