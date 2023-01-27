@@ -1,5 +1,7 @@
 ### Welcome to my page.
 
+![huggingIzzy](./images/izzy_hug.jpg)
+
 [Development Portfolio](https://vincenttoon.github.io/Toon-React-Portfolio/)
 
 - 🔭 I’m currently working on expanding my knowledge of MERN Stack, AWS and different backend technologies.
