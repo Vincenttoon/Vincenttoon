@@ -22,7 +22,7 @@
 [Development Portfolio](https://vincenttoon.github.io/Toon-React-Portfolio/)
 
 - 🔭 I’m currently working on expanding my knowledge of MERN Stack & SaSS (Professional Application), as well as SQl & Python (Textbook Reading & Text Application).
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning ReactJs, SQL and SaSS. Working my way to Vue.JS
 - 💬 Ask me about anything.
 - 😄 Pronouns: He / Him
 - ⚡ Fun facts: I can play 5 instruments and have tried over 1000 different craft beers.
