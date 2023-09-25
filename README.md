@@ -21,7 +21,7 @@
 
 [Development Portfolio](https://vincenttoon.github.io/Toon-React-Portfolio/)
 
-- 🔭 I’m currently working on expanding my knowledge of MERN Stack, AWS and different backend technologies.
+- 🔭 I’m currently working on expanding my knowledge of MERN Stack & SaSS (Professional Application), as well as SQl & Python (Textbook Reading & Text Application).
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about anything.
 - 😄 Pronouns: He / Him
