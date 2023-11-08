@@ -24,7 +24,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-[Development Portfolio]([https://vincenttoon.github.io/Toon-React-Portfolio/](https://vincent-toon-portfolio.vercel.app/))
+[Development Portfolio]([https://vincent-toon-portfolio.vercel.app/])
 
 - 🔭 I’m currently working on expanding my knowledge of MERN Stack & SaSS (Professional Application), as well as SQl & Python (Textbook Reading & Text Application).
 - 🌱 I’m currently learning ReactJs, SQL and SaSS. Working my way to Vue.JS
