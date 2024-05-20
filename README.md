@@ -1,9 +1,11 @@
-### Welcome to my page. 
+## Welcome to my page. 
 
-#### Full Stack Developer graduated from Washington University's Engineering Bootcamp.
+### Data Manager Working daily with MySQL, Python, and Javascript
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+#### Full Stack Web Development Bootcamp Graduate from Washington University in St. Louis
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -26,9 +28,9 @@
 
 [Development Portfolio](https://vincent-toon-portfolio.vercel.app/)
 
-- 🔭 I’m currently working on expanding my knowledge of MERN Stack & SaSS (Professional Application), as well as SQl & Python (Textbook Reading & Text Application).
-- 🌱 I’m currently learning ReactJs, SQL and SaSS. Working my way to Vue.JS
-- 💬 Ask me about anything.
+- 🔭 I’m currently working on expanding my knowledge of Python to better help my company script and automate in a language we all are knowledgable in.
+- 🌱 I’m personally expanding my WebDev portfolio by learning Vue.js and have taken a recent interest in C+ Programming.
+- 💬 Ask me about anything - I am an open book.
 - 😄 Pronouns: He / Him
 - ⚡ Fun facts: I can play 5 instruments and have tried over 1000 different craft beers.
 
